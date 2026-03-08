@@ -15,3 +15,5 @@ Tecnologías utilizadas:
 * Pandas
 * Plotly
 * Streamlit
+
+Pagina del render : https://proyecto-sprint7-xkxy.onrender.com/
