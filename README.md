@@ -1,19 +1,30 @@
-# proyecto_sprint7
-Mi proyecto del sprint 7
+# Vehicle Price Analysis to Identify Value Drivers
 
-DASHBOARD DE VEHICULOS ESTADOUNIDENSES
+📌 Overview
 
-Se desarrolla una página web con el objetivo de explorar de forma interactiva datos de vehiculos de E.U.A.
+Este proyecto explora datos de anuncios de vehículos para analizar cómo el kilometraje impacta el precio en el mercado secundario. El análisis se presenta a través de una aplicación web interactiva desarrollada con Streamlit.
 
-Funciones:
-* Histograma que muestra la distribución del odómetro de los vehículos.
-* Gráfico de dispersión que muestra la relación entre el precio y el odómetro.
+🎯 Objetivo
 
-Tecnologías utilizadas:
+Identificar patrones entre el kilometraje y el precio, generando insights que puedan apoyar estrategias de pricing y evaluación de valor.
 
+📊 Dataset
+
+Fuente: Dataset de anuncios de vehículos (mercado de EE.UU.)
+Variables clave: precio, odómetro (kilometraje)
+
+⚙️ Funcionalidades
+* Histograma interactivo para visualizar la distribución del kilometraje
+* Gráfico de dispersión para analizar la relación entre precio y kilometraje
+* Visualizaciones generadas dinámicamente mediante interacción del usuario (botones en Streamlit)
+
+🛠️ Tecnologías utilizadas
 * Python
 * Pandas
 * Plotly
 * Streamlit
 
-Pagina del render : https://proyecto-sprint7-xkxy.onrender.com/
+🔗 Demo en vivo
+
+👉 (https://proyecto-sprint7-xkxy.onrender.com/)
+
